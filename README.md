@@ -17,8 +17,13 @@ SQL + Power BI project analyzing household income across US cities and states.
 ## Files
 
 -US_income_sql_script.sql - SQL analysis
+
 -US_income_analysis.pbix - PowerBI dashboard
+
 -PowerBI dashboard.png - dashboard screenshot
+
 -USHouseholdIncome.csv - raw data
+
 -USHouseholdincome_statistic.csv - raw data
+
 -Cleaned_data_2.csv - Cleaned dataset
