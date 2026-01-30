@@ -1,17 +1,22 @@
 # US-income-analysis（SQL + PowerBI）
 
 ## Overview
+
 Self-initiated end-to-end data analytics project analyzing household income across US cities and states using SQL and Power BI.
+
 SQL + Power BI project analyzing household income across US cities and states.
 
 ## Tools
 -SQL
+
 -PowerBI
 
 ## Key steps
 
 -Cleaned and transformed raw datasets using SQL (Joins, aggregation, window function)
+
 -Built interactive PowerBI dashboard to visualize income gaps, regional trends and top/bottom performers.
+
 -Generated meaningful insights on geographic income inequality.
 
 ## Files
