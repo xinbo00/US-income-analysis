@@ -14,7 +14,7 @@ SQL + Power BI project analyzing household income across US cities and states.
 -Built interactive PowerBI dashboard to visualize income gaps, regional trends and top/bottom performers.
 -Generated meaningful insights on geographic income inequality.
 
-##Files
+## Files
 
 -US_income_sql_script.sql - SQL analysis
 -US_income_analysis.pbix - PowerBI dashboard
